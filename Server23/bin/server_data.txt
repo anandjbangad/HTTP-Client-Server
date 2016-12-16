@@ -1,0 +1,8 @@
+Anand Bangad
+Network Architecture And Protocol
+File Contained in the server.
+Name is server_data
+Random Texts
+aaaaaaaaaaaaa
+bbbbbbbbbbbbb
+ccccccccccccc
