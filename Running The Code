@@ -1,0 +1,4 @@
+For server run the file HttpServer inside src. Server asks for the required fields it needs. The server data is contained in the file server_data.txt.
+
+For running the client use file HttpClient inside Client23/src. The client asks for required field. The client will now contain it's text file whci is obtained from server.
+The name of this file would be cilent_data
